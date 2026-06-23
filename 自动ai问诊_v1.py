@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from playwright.sync_api import sync_playwright
 
-AUTHOR_LINE = "22级临五yqy制作。本程序免费，调用自购deepseek-api，启动后输入必要信息即可进入瑞金ai问诊网页自动进行五次问答和病史书写。任何疑问和bug，请联系yang13398@163.com。"
+AUTHOR_LINE = "22级临五yqy制作。启动后输入必要信息即可进入瑞金ai问诊网页自动进行五次问答和病史书写，注意不要点击任何浏览器内容，仅在此框内操作。任何疑问和bug，请联系yang13398@163.com。"
 RUN_TIMES = 5
 ENV_PATH = ".env"
 
