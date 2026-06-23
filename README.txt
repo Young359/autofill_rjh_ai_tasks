@@ -6,4 +6,4 @@
 程序调用deepseek api-key，可以在platform.deepseek.com自行购买，初版没有做prompt上的优化，运行完成一次（5次问诊任务）需消耗价值约0.08元的tokens，api-key的格式为sk-xxx。当然如果你觉得麻烦，可以微信作者，我可以免费提供为这个项目测试所购买的api-key。
 有任何bug、改进建议或者想对作者说的话，欢迎邮件yang13398@163.com 。
                                                                                                                                           
-                                                                                                                                          杨清远 2026.6.23
+22级临五1班yqy 2026.6.23
